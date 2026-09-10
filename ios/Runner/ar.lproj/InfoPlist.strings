@@ -1,0 +1,7 @@
+/* DOSS Driver — Arabic permission prompts */
+
+"CFBundleDisplayName" = "دوس كابتن";
+"NSCameraUsageDescription" = "يستخدم تطبيق DOSS Driver الكاميرا لتصوير رخصة القيادة وأوراق السيارة وصورتك الشخصية للتحقق من الحساب.";
+"NSPhotoLibraryUsageDescription" = "يحتاج تطبيق DOSS Driver إلى الوصول إلى مكتبة الصور لتتمكن من رفع صور موجودة لرخصتك وأوراق سيارتك للتحقق.";
+"NSMicrophoneUsageDescription" = "يستخدم تطبيق DOSS Driver الميكروفون لتتمكن من تسجيل وإرسال رسائل صوتية إلى الراكب أثناء الرحلة.";
+"NSLocationWhenInUseUsageDescription" = "يستخدم تطبيق DOSS Driver موقعك لعرض مكانك على الخريطة ومطابقتك مع طلبات الرحلات القريبة والوصول إلى الراكب.";

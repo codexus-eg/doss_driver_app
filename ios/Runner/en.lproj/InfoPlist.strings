@@ -1,0 +1,7 @@
+/* DOSS Driver — English permission prompts (base language) */
+
+"CFBundleDisplayName" = "DOSS Driver";
+"NSCameraUsageDescription" = "DOSS Driver uses the camera so you can photograph your driving licence, vehicle documents and profile photo for account verification.";
+"NSPhotoLibraryUsageDescription" = "DOSS Driver needs access to your photo library so you can upload existing photos of your licence and vehicle documents for verification.";
+"NSMicrophoneUsageDescription" = "DOSS Driver uses the microphone so you can record and send voice messages to your rider during a trip.";
+"NSLocationWhenInUseUsageDescription" = "DOSS Driver uses your location to show your position on the map, match you with nearby ride requests and navigate to your rider.";
